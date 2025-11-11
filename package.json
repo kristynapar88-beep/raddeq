@@ -1,2 +1,6 @@
-node -v
-
+git init
+git add .
+git commit -m "juice stack game"
+git branch -M main
+git remote add origin https://github.com/kristynapar88-beep/raddeq.git
+git push -u origin main
